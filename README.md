@@ -1,56 +1,53 @@
+🚀 StrideLogic
+StrideLogic is a sophisticated, AI-driven career guidance platform engineered to empower professionals to navigate complex career landscapes with data-backed precision. By synthesizing user career objectives with market trends, StrideLogic provides actionable insights and personalized development roadmaps.
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+💡 Key Value Proposition
+Intelligent Pathfinding: Utilizes advanced algorithms to analyze professional profiles and suggest optimal career trajectories.
 
-## Getting Started
+Strategic Skill Mapping: Identifies critical competencies and curates certification pathways aligned with industry demands.
 
-First, run the development server:
+Growth Analytics: Provides structured progress tracking to ensure professional milestones are met with consistency.
 
-```bash
+🛠 Tech Stack
+Built for scalability, performance, and modern development standards:
+
+Core: Next.js
+
+Database: Prisma ORM
+
+Styling: Tailwind CSS
+
+📋 Quick Start
+Follow these steps to initialize the environment locally:
+
+Bash
+# Clone the repository
+git clone https://github.com/nikinagaraju/StrideLogic.git
+
+# Navigate to project directory
+cd StrideLogic
+
+# Install dependencies
+npm install
+
+# Launch development environment
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+🤝 Contribution Guidelines
+We welcome contributions to enhance the capabilities of StrideLogic. Please feel free to open a pull request or submit an issue to suggest improvements.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+© 2026 Niki Nagaraju. All rights reserved.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Deployment Steps
+To apply this professional README to your repository:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Open the README.md file in your CAREER-ASSISTANCE-PORTAL folder.
 
-## Learn More
+Replace all existing content with the template provided above.
 
-To learn more about Next.js, take a look at the following resources:
+Save the file.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Run these commands in your Command Prompt:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-
-
-## Make sure to create a .env file with following variables -
-
-DATABASE_URL=
-
-NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
-
-CLERK_SECRET_KEY=
-
-NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
-NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
-NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/onboarding
-NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/onboarding
-
-GEMINI_API_KEY=
-=======
-# Career-Guidance-AI
->>>>>>> ed1ea709cbce488fab9de1201b945f1d0c24b49d
+git add README.md
+git commit -m "Enhance README to professional standard"
+git push origin main
