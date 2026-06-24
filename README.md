@@ -28,15 +28,5 @@ npm install
 npm run dev
 ```
 
-## 🤝 Contribution Guidelines
-We welcome contributions to enhance the capabilities of StrideLogic. Please feel free to open a pull request or submit an issue to suggest improvements.
-
----
-*© 2026 Niki Nagaraju. All rights reserved.*
-Final Step: Push to GitHub
-Once you have saved the file with the raw code above, run your standard commands in the Command Prompt to update GitHub:
-
-Bash
-git add README.md
-git commit -m "Fix markdown rendering in README"
-git push origin main
+## Author
+**Niki Nagaraju**
