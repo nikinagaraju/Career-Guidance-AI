@@ -17,8 +17,6 @@ Built for scalability, performance, and modern development standards:
 Follow these steps to initialize the environment locally:
 
 ```bash
-# Clone the repository
-git clone https://github.com/nikinagaraju/StrideLogic.git
 
 # Navigate to project directory
 cd StrideLogic
